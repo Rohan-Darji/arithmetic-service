@@ -12,4 +12,4 @@ function div (n, m){
     return n / m;
 }
 
-module.exports = {add,sub,mul,div}
+module.exports = {add, sub, mul, div}
